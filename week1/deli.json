@@ -1,0 +1,59 @@
+{
+    "menu": {
+    "appetizers": [{"spinach artichoke dip and chips" : {
+        "ingridients": ["mixed of cream cheese", "onions", "spinach", "parmesan cheese"],
+        "description": "Enjoy our creamy spinach artichoke with low fat tortilla chips"
+    }
+   },
+   {"french fries": {
+       "ingredients": ["Potato", "salt"],
+       "description": "Enjoy our fresh crispy fries covered in salt"
+   }
+ }
+],
+"cold sandwiches": [{"tuna sandwich" :{
+    "ingredients": ["Tuna", "mayonaise", "lettuce", "black pepper"],
+    "descripton": "Cold tuna sub with our secret sauce"
+  }
+ },
+{"Ham and cheese": {
+    "ingredients": ["Ham","american cheese","lettuce","onions","black pepper"],
+    "description": "This is your classic sub! Ham and cheese can't go wrong"
+}
+ }
+],
+"hot sandwiches": [{"teryaki sandwich":{
+    "ingredients": ["chicken", "teryaki sauce","yellow pepper", "Onions","sweet onion sauce"],
+    "description": "Hot and sweet! best teryaki sub in town covered in the best sweet onion sauce ever"
+}
+ },
+ {"Meatball sub": {
+     "ingredients": ["meatball", "marinera sauce","pepporoni","oregano","provologne"],
+     "description": "Italian sub made with best meatballs around covered in marinera sauce and your choice of cheese"
+ }
+ }
+],
+"desserts":[{"Banana split": {
+    "ingredients": [" ice cream","Banana","cherry"],
+    "description": "Classic banana split! Your coice of vanilla or choclate ice cream with a cherry on top"
+}
+ },
+ {"snickers brownie": {
+     "ingredients": ["snickers", "cake"],
+     "description": "Famous snickers turned into brownies! soft but crunchy"
+ }
+ }
+],
+"drinks": [{"Horchata": {
+    "ingredients": ["rice","milk","vanilla", "cinnamon"],
+    "description": "Ice cold horchata, sweet and delicous drink!"
+}
+},
+{"hot chocolate":{
+    "ingredients": ["chocolate","milk","marshmallows"],
+    "description": "hot chocolate with soft marshmallows on top"
+      }
+   }
+  ]
+ }
+}
