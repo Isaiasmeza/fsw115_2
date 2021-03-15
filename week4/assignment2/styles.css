@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    color:yellow;
+    background-color: black;
+
+}
+button{
+    margin:25px;
+    background-color: black;
+    color: yellow;
+}
+h1{
+    font-size:75px;
+}
+a{
+    color:yellow
+}
