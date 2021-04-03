@@ -1,0 +1,21 @@
+body{
+    background-color:Black ;
+}
+h1{
+    color:yellow;
+    font-size: 75px;
+    text-align:center;
+    text-decoration: underline;
+}
+li{
+    color:yellow;
+    font-size: 35px;
+    text-align:center;
+
+}
+h2{
+    color:yellow;
+    text-align: center;
+    font-size: 50px;
+    font-style: initial;
+}
